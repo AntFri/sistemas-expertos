@@ -1,6 +1,6 @@
 # sistemas-expertos
 ## Lenguajes IMperativos y declarativos:
-**IMperativos:** son secuencia claramente definida de instrucciones para un ordenador. Ejemplos: 
+**Imperativos:** son secuencia claramente definida de instrucciones para un ordenador. Ejemplos: 
 - Java
 - Pascal
 - ALGOL
@@ -8,7 +8,7 @@
 - C#
 - C++
 
-** Declarativos: ** Los lenguajes declarativos no dicen cómo hacer una cosa, sino, más bien, qué cosa hacer. Esta bassado mas en la matematica. Ejemplo:
+**Declarativos:** Los lenguajes declarativos no dicen cómo hacer una cosa, sino, más bien, qué cosa hacer. Esta bassado mas en la matematica. Ejemplo:
 - Prolog
 - LIPS
 - Haskell
