@@ -14,7 +14,7 @@
 - Haskell
 
 ##Mapa de Freeplane:
-[IMage](image.png)
+![IMage](https://github.com/AntFri/sistemas-expertos/blob/ad342dbcc8b917e377844c5966c71f6141b58fed/image.png)
 
 Que es un sistema Esperto.
 Programa de inteligencia artificial diseñado para resolver problemas o tomar decisiones en un ámbito determinado de modo análogo al razonamiento humano. Hay tres diferentes Tipos que se utilizan para diferentes cosas
