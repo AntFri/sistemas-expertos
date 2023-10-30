@@ -1,5 +1,5 @@
 # sistemas-expertos
-##Lenguajes IMperativos y declarativos:
+## Lenguajes IMperativos y declarativos:
 **IMperativos:** son secuencia claramente definida de instrucciones para un ordenador. Ejemplos: 
 - Java
 - Pascal
@@ -8,12 +8,12 @@
 - C#
 - C++
 
-**Declarativos:** Los lenguajes declarativos no dicen cómo hacer una cosa, sino, más bien, qué cosa hacer. Esta bassado mas en la matematica. Ejemplo:
+** Declarativos: ** Los lenguajes declarativos no dicen cómo hacer una cosa, sino, más bien, qué cosa hacer. Esta bassado mas en la matematica. Ejemplo:
 - Prolog
 - LIPS
 - Haskell
 
-##Mapa de Freeplane:
+## Mapa de Freeplane:
 ![IMage](https://github.com/AntFri/sistemas-expertos/blob/ad342dbcc8b917e377844c5966c71f6141b58fed/image.png)
 
 Que es un sistema Esperto.
