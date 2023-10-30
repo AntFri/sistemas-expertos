@@ -13,6 +13,9 @@
 - LIPS
 - Haskell
 
+##Mapa de Freeplane:
+[IMage](image.png)
+
 Que es un sistema Esperto.
 Programa de inteligencia artificial diseñado para resolver problemas o tomar decisiones en un ámbito determinado de modo análogo al razonamiento humano. Hay tres diferentes Tipos que se utilizan para diferentes cosas
 RBO (Rule Based Reasoning)
